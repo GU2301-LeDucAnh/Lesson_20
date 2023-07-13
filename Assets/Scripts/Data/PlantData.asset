@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dd061adf52dc8042b263effe3d178f2, type: 3}
+  m_Name: PlantData
+  m_EditorClassIdentifier: 
+  lstPlant:
+  - idPlant: 0
+    coinSpent: 10
+    playerLvCanUlock: 0
+    iconPlant: {fileID: 100000, guid: e2d691ef52fd4bb4fae3a01911268f10, type: 3}
+    smallPlant: {fileID: 100000, guid: 73657201110f40f4b93f7306ef507a80, type: 3}
+    mediumPlant: {fileID: 100000, guid: 5e9b247c700af4a4dae9cab449139258, type: 3}
+    bigPlant: {fileID: 100000, guid: dc7d9833d44b2b742a8bdb7ffb692929, type: 3}
+    timeToHarvest: 2
